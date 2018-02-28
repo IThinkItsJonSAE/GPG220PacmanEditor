@@ -1,0 +1,3 @@
+C:\Users\tkumazawa\Documents\Unreal Projects\GPG220_Project\Source\GPG220_Project\GPG220_Project.Build.cs
+C:\Users\tkumazawa\Documents\Unreal Projects\GPG220_Project\Source\GPG220_Project.Target.cs
+C:\Users\tkumazawa\Documents\Unreal Projects\GPG220_Project\Source\GPG220_ProjectEditor.Target.cs

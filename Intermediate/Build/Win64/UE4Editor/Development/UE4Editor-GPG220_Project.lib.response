@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GPG220_Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\tkumazawa\Documents\Unreal Projects\GPG220_Project\Intermediate\Build\Win64\UE4Editor\Development\GPG220_Project\GPG220_Project.cpp.obj"
+"C:\Users\tkumazawa\Documents\Unreal Projects\GPG220_Project\Intermediate\Build\Win64\UE4Editor\Development\GPG220_Project\GPG220_ProjectGameModeBase.cpp.obj"
+"C:\Users\tkumazawa\Documents\Unreal Projects\GPG220_Project\Intermediate\Build\Win64\UE4Editor\Development\GPG220_Project\GPG220_Project.init.gen.cpp.obj"
+"C:\Users\tkumazawa\Documents\Unreal Projects\GPG220_Project\Intermediate\Build\Win64\UE4Editor\Development\GPG220_Project\GPG220_ProjectGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\GPG220_Project\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\tkumazawa\Documents\Unreal Projects\GPG220_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GPG220_Project.lib"
