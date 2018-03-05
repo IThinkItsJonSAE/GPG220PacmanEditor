@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\GPG220_Project.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{CEAF2637-1B27-4D8E-AEF7-0007A89AA491}</UniqueIdentifier>
+			<UniqueIdentifier>{BFCFF877-4B63-4E69-AFBA-115F51AFE7AD}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\GPG220_Project.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{A2C6BF40-F860-4127-8C8A-480DA63890C6}</UniqueIdentifier>
+			<UniqueIdentifier>{62E619D9-929F-4ECB-B462-82DD20C5B013}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -24,8 +24,11 @@
 		<None Include="..\..\Config\DefaultGame.ini">
 			<Filter>Config</Filter>
 		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
 		<Filter Include="Source\GPG220_Project">
-			<UniqueIdentifier>{637A2822-564D-47E2-9295-B1E02569F749}</UniqueIdentifier>
+			<UniqueIdentifier>{C31D673D-0024-413C-BD27-031A0CB103BF}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\GPG220_Project\GPG220_Project.Build.cs">
 			<Filter>Source\GPG220_Project</Filter>
@@ -41,6 +44,18 @@
 		</ClCompile >
 		<ClInclude Include="..\..\Source\GPG220_Project\GPG220_ProjectGameModeBase.h">
 			<Filter>Source\GPG220_Project</Filter>
+		</ClInclude >
+		<Filter Include="Source\GPG220_Project\Private">
+			<UniqueIdentifier>{110E2612-BF5E-4755-977B-F713C6D87840}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\GPG220_Project\Private\MainCharacterController.cpp">
+			<Filter>Source\GPG220_Project\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\GPG220_Project\Public">
+			<UniqueIdentifier>{CE22DFA0-E14F-4FA8-8C5E-65720F1C9976}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\GPG220_Project\Public\MainCharacterController.h">
+			<Filter>Source\GPG220_Project\Public</Filter>
 		</ClInclude >
 	</ItemGroup>
 </Project>
