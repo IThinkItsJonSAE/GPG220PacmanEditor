@@ -419,7 +419,9 @@
 		<ClInclude Include="..\..\Source\GPG220_Project\GPG220_Project.h" />
 		<ClCompile Include="..\..\Source\GPG220_Project\GPG220_ProjectGameModeBase.cpp" />
 		<ClInclude Include="..\..\Source\GPG220_Project\GPG220_ProjectGameModeBase.h" />
+		<ClCompile Include="..\..\Source\GPG220_Project\Private\CharacterController.cpp" />
 		<ClCompile Include="..\..\Source\GPG220_Project\Private\MainCharacterController.cpp" />
+		<ClInclude Include="..\..\Source\GPG220_Project\Public\CharacterController.h" />
 		<ClInclude Include="..\..\Source\GPG220_Project\Public\MainCharacterController.h" />
 	</ItemGroup>
 	<PropertyGroup>

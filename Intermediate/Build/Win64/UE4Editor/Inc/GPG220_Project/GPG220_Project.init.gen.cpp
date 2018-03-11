@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeGPG220_Project_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/GPG220_Project",
 				PKG_CompiledIn | 0x00000000,
-				0xE45B3A69,
-				0x66D4EF9C,
+				0xE32BD278,
+				0x2E23844C,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\GPG220_Project.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{BFCFF877-4B63-4E69-AFBA-115F51AFE7AD}</UniqueIdentifier>
+			<UniqueIdentifier>{54BD1298-259F-41D9-BA88-5ECE9DF0AA46}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\GPG220_Project.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{62E619D9-929F-4ECB-B462-82DD20C5B013}</UniqueIdentifier>
+			<UniqueIdentifier>{6CB6CB8F-2B3C-4DA7-9037-F42CCD915940}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,7 +28,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\GPG220_Project">
-			<UniqueIdentifier>{C31D673D-0024-413C-BD27-031A0CB103BF}</UniqueIdentifier>
+			<UniqueIdentifier>{BAC74AAD-948E-444A-A93B-8DEC31D0D225}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\GPG220_Project\GPG220_Project.Build.cs">
 			<Filter>Source\GPG220_Project</Filter>
@@ -46,14 +46,20 @@
 			<Filter>Source\GPG220_Project</Filter>
 		</ClInclude >
 		<Filter Include="Source\GPG220_Project\Private">
-			<UniqueIdentifier>{110E2612-BF5E-4755-977B-F713C6D87840}</UniqueIdentifier>
+			<UniqueIdentifier>{406B3322-4376-4518-9C3B-5F3942C7EC8A}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\GPG220_Project\Private\CharacterController.cpp">
+			<Filter>Source\GPG220_Project\Private</Filter>
+		</ClCompile >
 		<ClCompile Include="..\..\Source\GPG220_Project\Private\MainCharacterController.cpp">
 			<Filter>Source\GPG220_Project\Private</Filter>
 		</ClCompile >
 		<Filter Include="Source\GPG220_Project\Public">
-			<UniqueIdentifier>{CE22DFA0-E14F-4FA8-8C5E-65720F1C9976}</UniqueIdentifier>
+			<UniqueIdentifier>{497FB46E-528B-4AFE-BAB3-7559B3736DA6}</UniqueIdentifier>
 		</Filter>
+		<ClInclude Include="..\..\Source\GPG220_Project\Public\CharacterController.h">
+			<Filter>Source\GPG220_Project\Public</Filter>
+		</ClInclude >
 		<ClInclude Include="..\..\Source\GPG220_Project\Public\MainCharacterController.h">
 			<Filter>Source\GPG220_Project\Public</Filter>
 		</ClInclude >
